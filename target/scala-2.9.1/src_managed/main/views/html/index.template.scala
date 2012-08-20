@@ -37,8 +37,8 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sat Aug 18 17:08:28 MDT 2012
-                    SOURCE: /Users/jason/Desktop/workspace/backboneTodoCoffeeScript/backboneTodoCoffee/app/views/index.scala.html
+                    DATE: Sat Aug 18 20:57:44 MDT 2012
+                    SOURCE: /Users/jason/Desktop/workspace/backbone-Todo-coffeescript-Scala/app/views/index.scala.html
                     HASH: a9468e14516db88237e3431e8b54cf7780705202
                     MATRIX: 505->1|599->18|636->21|671->48|710->50|755->61|769->67|807->84
                     LINES: 19->1|22->1|24->3|24->3|24->3|26->5|26->5|26->5
